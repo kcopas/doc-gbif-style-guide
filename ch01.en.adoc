@@ -748,9 +748,9 @@ IPT
 
 === Additional style sources
 
-* http://www.economist.com/styleguide/introduction(The Economist Style Guide)
-* http://www.theguardian.com/guardian-observer-style-guide-a(Guardian and Observer Style Guide)
-* http://handbook.reuters.com/index.php?title=A(Reuters Style Guide)
+* http://www.economist.com/styleguide/introduction[The Economist Style Guide]
+* http://www.theguardian.com/guardian-observer-style-guide-a[Guardian and Observer Style Guide]
+* http://handbook.reuters.com/index.php?title=A[Reuters Style Guide]
 * BBC
 
 Annex D. Revision History of the GBIF Style Guide
