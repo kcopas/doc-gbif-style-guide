@@ -1,4 +1,4 @@
-== GBIF Editorial and Visual Style Guides
+== Editorial Style Guide
 
 As a service to the GBIF community, the Marketing & Development Team has created this GBIF Editorial Style Guide, an in-house reference source that includes entries related specifically to GBIF. It gives the writers and editors of our various materials and publications answers to questions about style and usage. The guide does not attempt to address the style for other kinds of writing (scientific papers, memoran.dums, personal correspondence, etc.), though its consideration in those instances is strongly encouraged.
 
