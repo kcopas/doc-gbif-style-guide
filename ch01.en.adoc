@@ -1,0 +1,761 @@
+== GBIF Editorial and Visual Style Guides
+
+As a service to the GBIF community, the Marketing & Development Team has created this GBIF Editorial Style Guide, an in-house reference source that includes entries related specifically to GBIF. It gives the writers and editors of our various materials and publications answers to questions about style and usage. The guide does not attempt to address the style for other kinds of writing (scientific papers, memoran.dums, personal correspondence, etc.), though its consideration in those instances is strongly encouraged.
+
+The guide uses UN Style as the preferred style source and Webster’s New World Dictionary, Third College Edition as the preferred dictionary. The Associated Press Stylebook. 
+
+GBIF’s Visual Identity Guide should be referenced for visual elements related to the organization.
+
+=== General
+
+==== GBIF and the Global Biodiversity Information Facility
+
+On guidelines for use of the full name, my general approach would be to ensure that any release we were using as a standalone document, e.g. emailed attachment or something to print and leave on a document table ought to have the full name at least somewhere in the text. This could just be in a standard header and/or boilerplate, but I would favour also having it in the body of the text to accommodate the many aggregators who will just lift the text direct from a wire service (e.g. Eurekalert, scidev.net) and paste it without amendment. Even if we are primarily pushing GBIF as a brand identity, I don’t think we can afford the arrogance of assuming that people will know what it stands for.
+
+For news items on GBIF.org itself, I see less need for this as we can assume people are reading it from the site and therefore know where they are and what GBIF is. Even then, that does not necessarily hold if for example they jump straight there from an external link or Google search - or from an RSS feed.
+
+* GBIF is the organization’s name in both formal and informal usage.
+* GBIF is  
+
+Do not use environmental to describe GBIF, as that connotes a degree of advocacy beyond our mission.
+
+==== GBIF Secretariat
+
+informal usage of GBIFS is not for external use
+
+==== GBIF Participants
+
+Participants, members, member states
+
+==== GBIF network
+
+When delineating the member programs, do not use language that implies that the network is somehow a separate entity from GBIF.
+
+*WRONG*: Natural Heritage Network, natural heritage network, Heritage Network
+*RIGHT*: the GBIF network, the network of member programs, the network, our network, our network of member programs
+
+NOTE: 'network' is never capitalized.
+
+=== Species names 
+
+==== Capitalization and italics
+
+Do not italicize common names. In the first reference, follow the common name with the scientific name italicized and in parentheses. 
+
+*WRONG*: The Golden-cheeked Warbler, _Dendroica chrysoparia_, is imperiled.
+*RIGHT*: The golden-cheeked warbler (_Dendroica chrysoparia_) is imperiled.
+
+Do not capitalize common names of species except proper nouns and adjectives.
+* Queen Anne’s lace, Canada thistle, spring beauty
+
+WRONG: The Bald Eagle sometimes preys on the American Pika.
+RIGHT: The bald eagle sometimes preys on the American pika.
+
+NOTE: The convention among ornithologists is to capitalize both words in a standardized common »»name (based on the AOU Checklist). This is unique to ornithologists, and should only be used when the audience addressed is entirely ornithologists (i.e., a mix of herpetologists and ornithologists would indicate the noncapitalized usage).
+
+Capitalize the genus in scientific names but not the species.
+* _Aplodontia rufa_, _Draba cusickii_ var. _pedicellata_
+
+Capitalize names for phylum, class, order, and family, but do not italicize.
+* Chordata, Monocotyledoneae , Carnivora, Parulidae
+
+Do not capitalize or italicize English derivatives of scientific names.
+* amoeba, carnivore
+
+==== Usage
+
+As a scientific organization, it is appropriate for GBIF to include the scientific names of species referred to in our communications. This also enhances clarity, as common names often vary by region.
+
+The scientific name of a species should immediately follow the first reference to the common name. Thereafter, only the common name, or a shorter reference thereto, should be used.
+
+The pallid bat (_Antrozous pallidus_) is found throughout most of the western United States, though the bat’s status tends to be less secure in the more northern and western parts of its range. The pallid bat has large ears, large eyes, a simple muzzle, and yellowish drab dorsal pelage.
+
+=== Capitalization	
+When in doubt, do not capitalize.
+
+==== Time and date
+Capitalize months and days of the week, but not the seasons.
+
+*RIGHT*: Last spring, Julie rode her bike to work every Tuesday and Thursday.
+*RIGHT*: The summer field season begins in mid-May.
+*WRONG*: Their research concluded in the Fall of 2009.
+
+Do not capitalize the abbreviations	a.m. or p.m. 
+
+==== Geography
+
+Capitalize entire geographic names, but not general references.
+* Kent County, but Kent and Ottawa counties
+* the Potomac River, but the Potomac and Rappahannock rivers
+* Yosemite Valley, but the Blackfoot River valley
+
+Capitalize geographical regions, but not points of the compass (direction or locality).
+* A storm system that developed in the Midwest is moving east.
+* The golden-cheeked warbler is facing habitat loss in the northern ends of its range.
+* The farther south one travels in Virginia, the more one notices a Southern accent.
+* The GBIF network extends throughout the Western Hemisphere.
+
+==== Departments, agencies, and organizations
+Capitalize the formal names of agencies and departments, offices, programs, and institutions when used •	in text; do not capitalize informal or incomplete names. Do not capitalize the in the name, unless it is part of the formal name. Refer to Appendix A for preferred forms of frequently cited agencies.
+the Department of the Interior, but the department
+Texas Parks and Wildlife Department, but the parks and wildlife department
+Duke University, but the university
+GBIF formed a partnership with the Land Trust Alliance and The Nature Conservancy.
+Do not capitalize the words •	federal, state, or government when not part of a full proper name.
+Many natural heritage programs are housed in state agencies.
+GBIF receives federal government funding in support of our projects and programs.
+
+==== People
+
+Generally, capitalize formal titles when they appear before a person’s name, but lowercase titles if they are informal, appear without a person’s name, follow a person’s name or are set off before a name by commas. Also, lowercase adjectives that designate the status of a title. If a title is long, place it after the person’s name, or set it off with commas before the person’s name.
+
+Capitalize all conferred and traditional, educational, occupational, and business titles when used specifically in front of the name; do not capitalize these titles when they follow the name or stand alone. 
+
+* GBIF welcomed Vice President and Chief Scientist Tom Brooks on March 1.
+* Bruce Young, director of species science, will speak at the symposium.
+* Director Tom Smith is from the Virginia Natural Heritage Program.
+* Andy Kaiser, a GBIF director, is a partner with Goldman Sachs.
+* The chair of the Appropriations Committee emailed her today.
+* Contact the project manager for further information.
+
+NOTE: in tabular matter and addresses, these titles may be capitalized regardless of location.
+
+Do not use courtesy titles such as Mr., Ms., or Dr. when referring to people; use instead the full name on first reference and last name on subsequent references. Exceptions may be made upon specific request from the parties.
+
+Maintain parallel structure when using professional titles.
+*WRONG*: President Mary Klein, Tom Smith, director, Lori Scott, Kathy Goodin, Ph.D.
+*RIGHT*: Mary Klein, president, Tom Smith, director, Lori Scott, acting chief information officer, Kathy Goodin, deputy director for science
+
+• Capitalize references to GBIF’s Board of Directors.
+Board of Directors in first reference, thereafter the Board
+
+• Capitalize the names of all races and nationalities that contain a geographic term. Do not hyphenate,	either in noun or adjective form. Do not capitalize the race terms black and white.
+African American, Caucasian, Canadian, Puerto Rican, Hispanic*, Chinese
+* Whenever possible, use a specific designation term such as Mexican or Central American rather than the more generic Hispanic or Latino.
+
+• Do not capitalize unofficial titles preceding a name.
+linguist Erin Jones 
+When spelled out, academic degrees are not capitalized unless describing a specific degree.•	
+bachelor’s degree, master’s degree, doctoral degree, doctorate
+Marta earned her Master of Professional Communication degree at Clemson.
+Pete is studying toward a master’s degree, in addition to working full time.
+
+==== Publications
+// all up for revision —KC
+Capitalize all words, except articles (•	the, a, an), conjunctions (and, or, for, nor), and short prepositions of less than four letters (of, in, on, etc.) in headings and the titles of books, articles, lectures, etc. Capitalize articles and prepositions if at the beginning of a title or after a colon. 
+
+* Biodiversity Inventory of Natural Lands: A How-To Manual for Foresters and Biologists
+* Seeing the Forest and the Trees: Ecological Classification for Conservation
+* Biodiversity Without Boundaries
+* For Whom the Bell Tolls
+
+Titles of all major works, including published books, periodicals, and newspapers are capitalized and set •	in italics. Do not capitalize the in the title, unless it is part of the formal name.
+* The New York Times is sold at most CVS stores, but copies of the Boston Globe are harder to come by.
+
+Capitalize	Figure or Table, and their abbreviations, when used in text to designate a specific insert.
+* GBIF tracked the elements of biodiversity shown in Table 1.
+* We developed a simple conceptual model (Fig. 4) identifying major attributes of wetland ecosystems.
+
+In headlines, subheads, and publication titles, when one part of a hyphenated compound adjective is •	capitalized, both parts should be capitalized; however, fractions and compounds containing a prefix are exceptions. 
+
+* The Two-Headed Monster of Chaos Theory
+* One-half of Stay-at-Home Moms Re-enter the Work Force
+
+==== Internet-related terms
+Capitalize the formal names World Wide Web and Internet, but no other web-related terms.
+* the web, website, web page and webmaster, but World Wide Web
+* email and intranet, but Internet
+
+==== Other
+
+Do not capitalize the words •	page and paragraph or their abbreviations (p., pp.).
+
+NOTE: grammatical rules regarding capitalization are sometimes bent for the sake of visual appeal, especially »»in headings, tables, or display type.
+
+=== Abbreviations	
+
+When in doubt, spell the word out.
+
+4-1. Time and date
+Use •	a.m. and p.m. with periods and lowercase letters. In tabular matter, the periods may be omitted to save space. 
+Do not abbreviate days of the week except in tabular form; if abbreviated, the preferred form is •	Mon., Tue., Wed., Thu., Fri., Sat., and Sun.
+Spell out the month when used alone or with a year alone.•	
+In January, they reorganized the department.
+GBIF Vista 2.5 was released in November 2009.
+These months may be (but need not be) abbreviated when (and only when) they are used with a specific •	date: Jan., Feb., Aug., Sept., Oct., Nov., Dec.; spell out March, April, May, June, and July in all references.
+J3M is scheduled for Jan. 28–29, or J3M is scheduled for January 28–29.
+Training will be held March 2–6, but never Training will be held Mar. 2–6.
+Abbreviate time zones without periods.•	
+I’ll call you at 2:30 p.m. EDT.
+Her flight is scheduled to arrive at 8:00 a.m. PST.
+FY•	 may be used as an abbreviation for Fiscal Year. Use four-digit years in formal instances. Do not insert a space between FY and the year.
+The FY2009 budget was approved by the Board.
+Never abbreviate •	Christmas in the form of Xmas.
+4-2. Geography
+Use •	U.S. in text only as an adjective. Spell out United States as a noun.
+the U.S. Senate, but a resident of the United States
+Use the abbreviations •	Ave., Blvd., and St. only with a numbered address.
+GBIF offices are located at 1101 Wilson Blvd.
+The subway station is just one block up Wilson Boulevard.
+Do not abbreviate names of countries other than •	U.S.
+In running text, lists, or bibliographies, abbreviate the name of the state when it is used with a city, •	except Alaska, Hawaii, Idaho, Iowa, Maine, Ohio, Texas, and Utah; in such instances, use traditional state abbreviations, not postal abbreviations. Always spell out the state’s name when it is used alone. Use the two-letter postal abbreviation only in full addresses and with a ZIP code. 
+WRONG: The training will be held simultaneously in Westborough, MA, and Fort Collins, CO.
+RIGHT: The training will be held simultaneously in Westborough, Mass., and Fort Collins, Colo.
+ALSO ACCEPTABLE: The training will be held simultaneously in Westborough, Massachusetts, and Fort Collins, Colorado.
+WRONG: He grew up in Portland, ME, and then moved to Fresno, Cal.
+RIGHT: He grew up in Portland, Maine, and then moved to Fresno, Calif.
+WRONG: She began working with the network in MI in 1992.
+WRONG: She began working with the network in Mich. in 1992.
+RIGHT: She began working with the network in Michigan in 1992.
+Note: see full list of common geographic abbreviations in »»Appendix A.
+Do not abbreviate parts of geographic names, except •	Saint in St. Louis, St. Paul, etc., unless they are used in tabular matter.
+Fort Wayne, not Ft. Wayne, 
+North Dakota, not N. Dakota
+4-3. Departments, agencies, and organizations
+Do not abbreviate the name of an organization the first time it is used; spell out and put the acronym in •	parentheses. If the term appears only once, do not add the acronym. Do not use the with the acronym.
+the U.S. Fish & Wildlife Service (FWS) in first reference, thereafter FWS.
+When names of government agencies or other organizations are abbreviated as acronyms (first letter •	of each word), use full caps and no periods. Refer to Appendix A for preferred forms of frequently cited agencies and other partners/programs.
+USDA, USGS, DoD, DOI, TNC, BCI
+Note: Avoid using internal GBIF acronyms in communications to external audiences. A list of »»commonly used GBIF acronyms is provided in Appendix B.
+Use an •	ampersand (&) in proper names of departments, offices, corporate titles, when the items are not distinctly separate, or if space demands it in abbreviations and tabular material. Otherwise, use and. 
+the Marketing & Development Team
+Vice President and Chief Scientist
+the Association of Fish & Wildlife Agencies
+4-4. People
+Never abbreviate given names, such as •	George, William, and Charles. 
+Although •	Chicago no longer uses periods in abbreviations of academic degrees, we recommend the tra.ditional: B.A., M.S., Ph.D., M.S.s, Ph.D.s. Set off with commas in running text.
+ Judy Soule, Ph.D., is director of member relations.
+Only use the title •	Dr. when referring to a medical doctor.
+Bruce Young, Ph.D., not Dr. Bruce Young
+Always abbreviate courtesy titles, such as •	Mr., Mrs., and Dr.; do not use them in combination with any other title or with abbreviations indicating academic degrees. (But remember: we don’t typically use courtesy titles anyhow! See Section 3-4.)
+Kathleen Goodin, Ph.D., not Ms. Kathleen Goodin, Ph.D. 
+
+4-5. Other
+No space should be used between the initials of an abbreviation.•	
+U.S., J.D. Salinger, 8:15 a.m.
+
+Do not abbreviate the words •	association, department, institute, etc., in running text.
+
+Do not abbreviate the word •	percent. Spell it out as percent (one word) and use figures. 
+Of this year’s student enrollment, 52 percent are men and 48 percent are women.
+
+Abbreviate 
+•	page to p. and pages to pp. in footnotes or bibliographical material; spell out when used in text material (page, not Page). 
+Do not begin a sentence with an abbreviation. Spell the word(s) out.  
+•	
+WRONG: E.g., one should never begin a sentence this way.
+RIGHT: For example, the words should be spelled out.
+Note: abbreviations may be used more freely in tabular matter.»»
+
+=== Punctuation
+
+==== Spaces
+
+Use just one space between sentences and after colons.
+
+Most typeset text, both before and after the typewriter, has always used a single space. The practice of putting two spaces at the end of a sentence is a carryover from the days of typewriters with monospaced typefaces. With monospaced typefaces every character takes up the same amount of space on the page. An ‘m’ uses the same amount of space as an ‘i.’ Two spaces, then, it was believed, made it easier to see where one sentence ended and the next began.
+
+Today, proportionally spaced fonts are prevalent, and the practice of using two spaces is no longer neces.sary and is even detrimental to the appearance of text. With proportionally spaced fonts, the characters take up an amount of space relative to their actual width—an ‘i’ needs less space than an ‘m.’ The extra spacing is often distracting and unattractive. It creates “holes” in the middle of a block of text—trapped white space on a smaller scale.
+
+(Adapted from http://desktoppub.about.com/cs/typespacing/a/onetwospaces.htm.)
+
+Do not put spaces around slashes.
+*WRONG*: and / or, June / July
+*RIGHT*: and/or, June/July
+
+==== Commas and periods
+//update —KC
+Use a comma before the words •	and and or in a series (three or more items/parts). Though the emerg.ing practice is to omit the comma in a simple series, to reduce confusion over what is a simple versus complex series, use serial commas throughout.
+GBIF data, tools, and expertise are commonly used across multiple federal, state, tribal, and local governments.
+I had orange juice, ham and eggs, and toast for breakfast.
+We must consider whether we have staff qualified to work on the project, whether they have adequate time and resources available to them, and whether the project is compatible with our mission.
+Commas and periods are always placed inside quotation marks. Other punctuation marks should be •	outside the ending quotation marks unless they are part of the material being quoted.
+He said, “GBIF is the greatest.”
+Did she really say, “I love all this snow”?
+I ask you, “Does this really matter?” (Editor’s note: the answer is, “Yes!”)
+If you have a phrase in parentheses at the end of a sentence, place the period after the closing parenthe.•	sis. If a complete sentence is in parentheses, the period should be inside the closing parenthesis. 
+Nevada’s SWAP did not address the degree of vulnerability species may face due to a warming climate (nor did many other states’ plans).
+The focus is on assessing the vulnerability of Nevada’s 263 Conservation Priority animal species. (See the case study for the results on the first 13 species reviewed.)
+When writing a date, place a comma between the day and the year as well as after the year, and •	between the day of the week and the date as well as after the date.
+February 10, 2010, was cold and snowy. 
+Sunday, February 7, was sunny.
+The snowfall on Saturday, February 6, 2010, set new records.
+Do not place a comma between the month and year when the day is not mentioned.•	
+She started working for GBIF in November 2008.
+The April 2010 board meeting convened in Austin, Texas.
+Place a comma after digits signifying thousands, except when reference is made to temperature or years •	as part of dates.
+1,150 species but 1100 degrees
+More than 3,200 years passed between King Tut’s death and the discovery of his tomb in 1922.
+Use a comma to set off nonrestrictive clauses or phrases. Use the word •	that to introduce a restrictive clause and which to introduce a nonrestrictive clause. An easy way to distinguish which word to use is whether or not the construction demands a comma to set it apart from the main clause; a comma always takes which.
+She was glad that she hadn’t bought the Toyota.
+I know you like this genre, which is why I invited you to join me.
+Transitional words such as •	to wit, namely, i.e., e.g., and viz, should be immediately preceded by a comma or semicolon and followed by a comma.
+The case study revealed two species that are presumed stable, namely, the Eastwood milkweed 
+(Asclepias eastwoodiana) and desert horned lizard (Phrynosoma platyrhinos).
+When listing names with cities or states, punctuate as follows: •	
+The university is entirely within the New Orleans, La., city limits. 
+Joe Turner, New Orleans, is president of the Tulane University Alumni Association. 
+Joe Turner of New Orleans is president of the Tulane University Alumni Association.
+Do not use a comma before or after•	 Jr. or Sr., and do not precede Roman numerals such as I, II, or III with a comma. 
+Please call Bruce Cameron Jr. for the funding report. 
+Contact Neil W. Ransom II for further information.
+
+==== Colons 
+Use a colon to introduce long lists in running text. If the colon is followed by a list of complete sentences, •	capitalize the first word following the colon. If a single statement following the colon is a complete sen.tence itself, lowercase the first word after the colon. If it is a list or a sentence fragment, lowercase.
+Three things he realized: Summer is brief. Winter seems eternal. Spring arrives eventually.
+John followed the instructions: he uploaded the documents.
+Ice cream is always welcome: spring, summer, fall, and winter.
+Use a colon after •	as follows and the following when those words end the line/phrase immediately pre.ceding a bulleted or ordered list. Otherwise, do not use a colon preceding a bulleted or ordered list; the use of a heading/lead-in statement and graphically delineated list is sufficient.
+Follow a statement that introduces a direct quotation of one or more paragraphs with a colon. •	
+
+==== Apostrophes
+Use only an apostrophe (not an apostrophe and an s) when making possessive a singular proper name •	ending in s. 
+Achilles’ heel 
+Dickens’ novels
+Copas’ pet peeves
+In making the plural of figures and multiple letters, do not use an apostrophe. •	
+The 1980s are back. 
+Two EOs
+In making the plural of single letters, use the apostrophe. •	
+Mind your p’s and q’s.
+
+==== Hyphens
+Compounds formed with prefixes are normally closed (i.e., no hyphen), whether they are nouns, verbs, •	adjectives, or adverbs. A hyphen should appear, however, before a proper noun, numeral, or compound term, or to separate duplicate vowels and other combinations of letters that may cause misreading. 
+Do not hyphenate the words beginning with •	non, except those containing a proper noun or compound term. 
+non-German
+non-beer-drinking 
+nonnative species
+nonprofit organization
+Do not place a hyphen between the prefixes•	 pre, post, semi, anti, multi, sub, etc., and their nouns or adjectives, unless it would duplicate a vowel or consonant or the noun is a proper noun. 
+antidiscriminatory
+electro-optical, but preindustrial 
+pro-American
+Hyphenate the prefix •	co- (e.g., co-worker, co-owner, co-brand), except when combined with a verb where the letter “o” is doubled, as in cooperate and coordinate.
+Hyphenate compound modifiers and any modifying word combined with •	well, ill, better, best, little, or lesser when preceding a noun. Many combinations that are hyphenated before a noun are not hyphen.ated when they occur after a noun, except when they occur after a form of the verb to be. 
+We assist land-use planners, but planners’ decisions determine land use.
+He applied for a full-time position, but he is working full time.
+It has a well-built engine, and its engine is well-built. 
+Note: see »»Section 5-6 regarding the use of en dashes with compound modifiers.
+Do not use hyphens in compound modifiers in which the first word (typically an adverb) ends in •	-ly (except for family). Do not use a hyphen with very.
+The field guides are targeted toward environmentally minded park visitors, never … toward environmen.tally-minded park visitors. 
+This is a fairly common mistake.
+He worked in the family-owned business.
+We had a very good time at the party.
+Hyphenate compounds in which one word is a cardinal number and the other is a noun or adjective.•	
+six-string guitar
+three-headed cow
+30-mile run 
+10-year-old child 
+12,000-square-foot building
+Do not hyphenate compound nationalities even when used as adjectives.•	
+Three Latin American representatives attended the J3M.
+Her daughter majors in African American history.
+Hyphens are unnecessary in compounds that are composed of proper nouns or that are commonly read •	as a unit.
+Sharon is a North Dakota native.
+Meet me in the airport departure lounge.
+Note: see »»Section 5-6 regarding the use of en dashes with compound modifiers.
+Use a hyphen to help avoid ambiguity, and to avoid duplicated vowels or triple consonants.•	
+He recovered his health but he re-covered his leaky roof.
+Anti-intellectual, pre-emptive, shell-like
+Use your dictionary to determine whether to hyphenate frequently used compound words. Note that •	hyphenated words can be created for the sake of clarity. 
+Avoid the hyphenation of proper names when breaking text lines.•	
+WRONG: … He loves Mexi-
+can food. She works at Nature-
+Serve.
+RIGHT: … He loves 
+Mexican food. She works at
+GBIF.
+Avoid excessive hyphens in line breaks in paragraphs. Use a “soft return” (Shift + Enter) to push words to •	the next line within a paragraph.
+
+==== Em dashes
+
+The longer of the two types of dashes, the em dash indicates a strong break in the structure of a sentence. It is roughly the width of the letter ‘m.’ To type an em dash on a PC, the command is ALT + 0151 on the number pad; on a Mac, use the keyboard strokes option-shift-hyphen. In Microsoft Word, an em dash can be created by typing two hyphens but no spaces between two words.
+
+There is no space before or after the em dash.
+
+Use an em dash to denote a sudden break in thought that causes an abrupt change in sentence	structure. 
+* Consistency—that hobgoblin of little minds.
+* Pat left work yesterday—much later than she wanted to—to pick up her daughter.
+
+Use an em dash in defining or enumerating complementary elements.
+* The influence of three musicians—Mozart, Bach, and Beethoven—was of great importance in his devel.opment as a musician.
+
+Use an em dash before an author’s name at the end of a quotation or in a byline.
+* “When we try to pick out anything by itself, we find it hitched to everything else in the universe.”—John Muir
+
+==== En dashes
+The en dash represents a range, usually of time, distance, or number. It is roughly the width of the letter ‘n’: longer than a hyphen, but shorter than an em dash. To type an en dash on a PC, the command is ALT + 0150 on the number pad; on a Mac, use the keyboard strokes option-hyphen. In Microsoft Word, an en dash can be created by typing space, two hyphens, space between two words. (Note that the Word method leaves you with unwanted spaces around the en dash.)
+There is no space before or after the en dash.•	
+Use an en dash to indicate continuing or inclusive numbers, dates, times, or reference numbers. In •	running text, use from and to or between and and instead of the en dash.
+1968–82 but from 1968 to 1982 (never from 1968–82) 
+May–June 1967 or from May through June 1967 
+10 a.m.–5 p.m. or between 10 a.m. and 5 p.m. 
+pp. 38–45 or from pages 38 to 45
+Use an en dash to join prefixes to compound terms when one or both terms is a compound. •	
+New York–London flight 
+post–Civil War period 
+a New Hampshire–based organization
+Quasi–public–quasi–private judicial body
+For scores or numbers not in a sequence, use a hyphen with no spaces.•	
+The Ravens beat the Steelers 20-17 in overtime.
+
+==== Quotation marks
+Except as otherwise noted, typographer’s quotes (curly or slanted quotation marks) are preferred to •	straight quotes (a.k.a. typewriter or prime quotation marks).
+The titles of books, radio and television programs, pamphlets, periodicals, etc., should be italicized, while •	titles of articles, book series, film series, radio and television episodes, essays, lectures, and parts of volumes (chapters, titles of papers, etc.) should be placed in quotation marks. 
+Use single quotation marks for quotations within other quotations. •	
+If several paragraphs are to be quoted, use quotation marks at the beginning of each paragraph, but at •	the end of the last paragraph only. No quotation marks are needed if the quote is set in smaller type and set off from the text by a space, or indented as a block quote.
+Set quotation marks after periods and commas and before colons and semicolons. Exclamation points •	and interrogation marks that are not part of the quotation should be set outside quotation marks. 
+Emerson replied nervously, “There is no reason to inform the president.” 
+He had not defined the term “categorical imperative.” 
+A “zinc,” or line engraving, will be made from the sketch. 
+Kego had three objections to “Filmore’s Summer”: it was contrived; the characters were flat; the dia.logue was unrealistic. 
+The man cried, “They stole my new car!”
+Use primes (i.e., straight quotes) to designate inches, feet, and navigational notation. •	
+12", 12'
+67°03'16
+Use editor’s brackets, not parentheses, to set off editorial remarks within direct quotations.•	
+“Johnson saw it [the war] as a personal test of wills.”
+
+==== Ellipses
+In general, treat an ellipsis as a three-letter word, constructed with three periods and a regular space on either side of the ellipsis, as shown here ( ... ). 
+When the grammatical sense calls for a question mark, exclamation point, comma, or colon, the se.•	quence is: word, punctuation mark, regular space, ellipsis; e.g., “Will you come? ...” 
+When material is deleted at the end of one paragraph and at the beginning of the one that follows, place •	an ellipsis in both locations. 
+Do not use ellipses at the beginning and end of direct quotes that form complete sentences. •	
+“It has become evident to me that I no longer have a strong enough political base,” Nixon said. 
+not “ … it has become evident to me that I no longer have a strong enough political base …,” Nixon said.
+but Nixon finally relented, conceding “... that I no longer have a strong enough political base.” 
+
+==== Bullets
+
+Bullets are graphic devices that substitute for alpha-numeric designation of items in a list. In a bulleted list, the graphic device obviates normal grammatical punctuation.
+
+In bulleted lists within text passages, the bullet •	is the punctuation. No other punctuation is required to separate listed items. Do not use commas or semicolons at the end of each item. 
+
+If an item in the bulleted list is a complete sentence, the first word should be capitalized and there •	should be a period at the end of the sentence. If the item is a nonsentence fragment, the first word should be lowercased. No period is necessary at the end of the last item in the list. 
+
+Avoid mixing sentence and nonsentence items in a bulleted list.•	
+
+This list is an example of a bulleted list with complete sentences. The following is an example of a list •	with nonsentence fragments:
+
+*WRONG*: GBIF’s conservation information value chain has six successive steps
+Scientific standards and methods;..
+We collect and record data. ..
+Data management and quality assurance;..
+We make information accessible and interoperable;..
+Conservation Expertise and Analysis; and..
+Decision-support...
+RIGHT: GBIF’s conservation information value chain has six successive steps
+scientific standards and methods..
+data collection and recording..
+data management and quality assurance..
+information access and interoperability..
+conservation expertise and analysis..
+decision-support..
+
+NOTE: Grammatical rules regarding punctuation are sometimes bent for the sake of visual appeal in headings, »»tables, or display type.
+
+=== Numbers
+
+==== General usage 
+Spell out numbers •	one through nine and general (nonspecific) numbers in text. Use numerals for numbers 10 and over, including ordinals (e.g., third, 26th).
+There are seven ways to do this, but only one right way.
+There are a million reasons to disagree.
+He has 12 brothers and sisters.
+Nevada’s SWAP lists 263 Conservation Priority animal species, of which 13 were assessed in the case study.
+Marta finished a dismal 15th in the rock-paper-scissors game.
+When two or more numbers apply to the same category in a paragraph or a series, do not use numerals •	for some and text for others; instead, use all numerals.
+There are 20 sections to the field guide, 13 in Part I and 7 in Part II.
+For very large numbers, use a combination of initial numeral followed by denomination.•	
+$1.8 million, 15 million people
+GBIF received a $2 million gift.
+Do not begin a sentence with a numeral, supply a word or spell out the number. Numbers below 100 •	should be hyphenated when they consist of two words (e.g., fifty-five).
+WRONG: 99 problems and a bitch ain’t 1.
+RIGHT: Ninety-nine problems and a bitch ain’t one.
+Do not add a numeral in parentheses after it is spelled out.•	
+WRONG: three (3) copies
+RIGHT: three copies
+6-2. Quantities and measurements
+References to quantities greater than a given amount should use •	more than, never over.
+WRONG: GBIF has classified over 600 ecological systems.
+RIGHT: GBIF has classified more than 600 ecological systems.
+Use numerals for degrees, ratios, and persons’ ages. •	
+longitude 6°7'06"W 
+The formula uses a 3:2 ratio.
+His daughter is 7 years old.
+Use numerals with units of measurement.•	
+John is 6-feet, 4-inches tall.
+The tree weighs 1,000 pounds.
+Express all percentages as numerals and do not use •	% except in tabular form.
+4 percent, 135 percent
+For temperatures in whole numbers, spell out •	degrees rather than using °, except when used in tables or in reference to scientific measurements. Use Fahrenheit or Celsius only when it would be confusing not to.
+It is 86 degrees outside today.
+The normal boiling point of water is 99.97°C at a pressure of 1 atmosphere.
+Express all dollars as numerals, except in general/casual references. Do not use decimals for whole •	dollars.
+Todd, please lend me a dollar.
+WRONG: The book cost $8.00.
+RIGHT: The book cost $8.
+RIGHT: The book cost $8.13.
+
+==== Time
+Time of day is designated by using a colon and zeroes for whole hours when space allows. Shorten to just •	the whole hour where space is limited. Always use a.m. or p.m. in text; they may be dropped in tabular form in order to preserve alignment of type.
+Standard: 9:00 a.m., 6:00 p.m.; short: 9 a.m., 6 p.m.
+Always spell out •	noon and midnight, never use 12:00 a.m. and 12:00 p.m. Do not put 12 in front of noon or midnight.
+Use cardinal numbers for days of the month, do not use ordinals.•	
+WRONG: The meeting was held on January 19th.
+WRONG: The meeting was held on the 19th of January.
+RIGHT: The meeting was held on January 19.
+Use four-digit years for decades in formal usage. In informal use, the century may be replaced by an •	apostrophe (not a left single quote). Only spell out the decade when referring to a specific age or group.
+Formal: 1970s, 1990s, 2000s; informal: ’70s, ’90s, ’00s
+She is in her eighties.
+Spell out first through tenth centuries, use ordinals after 10.•	
+third century, 21st century
+
+==== Other
+Write phone numbers with the area code set off by a hyphen; e.g., 703-908-1800.
+
+Do not use extended ZIP codes (“ZIP plus 4”) in general references to an address, but do use them on •	actual mailings.
+
+=== Italics
+
+==== Scientific names of plants and animals
+See•	 Section 2.
+
+==== Titles
+See •	Section 3-5 and Section 5-7.
+
+==== Emphasize words and phrases
+Use italics, rather than quotes or underlining, to emphasize words in text; also to highlight foreign words or phrases not yet Anglicized. 
+* The time to strike is now. 
+* The stranded party mixed sawdust and flour to create an ersatz bread.
+
+==== Web and email addresses
+Use italics, rather than underlining, to highlight URLs and email addresses in running text in printed ma.•	terials. For text conveyed electronically, create a hyperlink.
+PRINT: Visit our website, GBIF.org, or email kyle_copas@GBIF.org for more information.
+ELECTRONIC: Visit our website, GBIF.org, or email kyle_copas@GBIF.org for more information.
+Do not include •	http:// in a URL if it is a World Wide Web address. Also, www. is not necessary when the URL is described as a website (“website” and “www” are redundant), or on subsequent references to a URL.
+WRONG: Visit our website, http://www.GBIF.org, for more information.
+WRONG: Visit our website, www.GBIF.org, for more information.
+RIGHT: Visit www.GBIF.org for more information.
+RIGHT: Visit our website, GBIF.org, for more information.
+WRONG: Find the latest style guide at native.GBIF.org.
+RIGHT: Find the latest style guide at http://native.GBIF.org.
+
+=== Spelling and Usage
+
+// update, pls —KC
+For answers to other questions of style and spelling, consult The Chicago Manual of Style or Webster’s New World Dictionary. If Webster’s offers alternate spellings of a word, always check Chicago to see which is preferred.
+
+==== Correct spellings of commonly misspelled words
+a lot•	 (no such word as alot)
+accommodate•	 (two “c’s,” two “m’s”)
+acknowledgment•	 (no “e” after the “g”)
+afterward•	 (no “s” at the end)
+audiovisual•	 (no space, no hyphen)
+British Columbia•	 (with a “u”)
+canceled, canceling, cancellation•	
+catalog•	, not catalogue
+cemetery•	 (all the vowels are “e’s”)
+Colombia•	 (the country), Columbia (the river)
+co-worker•	, not coworker
+decision-maker•	 (noun; never decisionmaker or decision maker)
+embarrass•	 (two “r’s” and two “s’s”)
+email•	 (not e-mail)
+fieldwork•	 (one word)
+fundraising, fundraiser•	 (one word in all forms)
+harass•	 (only one “r”)
+judgment•	 (no “e” after the “g”)
+liaison•	
+livable•	 (no “e” in the middle)
+millennium•	 (two “l’s,” two “n’s”)
+misspelled•	 (two “s’s,” two “l’s”)
+nonprofit•	 (no hyphen)
+OK•	 or okay but not O.K.
+outperform•	 (no hyphen)
+policy-maker •	(noun; never policymaker or policy maker)
+résumé•	 with accents as shown here, not resume or resumé
+sizable•	 (no “e”)
+toward•	 (no “s” at the end)
+under way•	 (two words in all cases)
+-wide•	, no hyphen (statewide, nationwide, worldwide—except World Wide Web)
+8-2. Common usage questions
+a•	 in front of words that sound as if they begin with a consonant, regardless of how they are spelled; an in front of words that sound as if they begin with a vowel, regardless of how they are spelled
+It is an honor to be here today. (It sounds as if honor should be spelled AHN-or.) 
+If you already know the rule, this is a useless exercise. (Hear the “y” sound in “useless”?)
+affect•	: to have an influence on; effect: to bring about. In general, if the word you use is a verb, spell it with an “a,” and if it is a noun or adjective, spell it with an “e.”
+all ready•	 (everyone is prepared: all are ready) and already (completed action)
+a.m.•	 and p.m. Do not include o’clock. Designate noon or midnight, rather than 12 a.m. or 12 p.m.
+between•	 when referring to two things, among when referring to more than two
+capital•	 for the city, capitol for the building
+compared with•	 between two similar items (compare FY2008 income with FY2009 income); compared to between disparate items (compare the change in FY2009 income to the change in FY2009 gross national product)
+center•	 for general use or in a reference that encompasses both the U.S. and Canada; centre when used in purely Canadian contexts.
+data•	 is always plural (“GBIF data are used in …”)
+disabled•	, not handicapped
+doctorate•	 is a noun and doctoral is an adjective
+freshwater•	 (one word) is an adjective denoting a habitat type (“the report includes both terrestrial and freshwater classifications”); fresh water (two words) is a noun used to indicate drinking water
+full-time•	 and part-time are adjectives; full time and part time are adverbs
+indiscreet•	 (meaning imprudent); indiscrete (meaning separated into parts)
+in regard to•	 (never “in regards to”) but, he sends his regards
+it’s •	is a contraction that means “it is” or “it has”; its means “belonging to it.” Whenever you must choose one or another in a sentence, try inserting the phrase “it is” or “it has.” If one of those pairs makes sense, then use “it’s.”
+kickoff•	 (noun or adjective), kick off (verb)
+lay•	 (transitive, requires an object): I lay the book on the bed; past tense: I laid the book on the bed. 
+lie (intransitive): I lie in bed; past tense: I lay in bed.
+less•	 when describing an amount that cannot be counted, fewer when describing a number
+The task took less time than we anticipated.
+Fewer than 12 students attended the seminar.
+login•	 (noun or adjective), log in (verb)
+method•	 is a discrete way of doing something; methodology is a body or set of methods
+mid-August •	but midsummer
+principal•	: meaning primary or major, as in the title of the high-ranking school official (also financial—the face value of a stock or bond); principle: a fundamental law or doctrine
+were•	 is the appropriate singular verb in the subjunctive mood, used to express a wish or possible situa.tion that is currently not true. It is usually used with words like if and wish. 
+I wish I were a sea cucumber.
+I wouldn’t do that if I were you.
+8-3. Common problems to avoid
+Passive voice•	
+“As a matter of style, passive voice is almost always inferior to active voice. With active voice, the subject acts; with passive voice, the subject is acted upon. It is important in telling our story that we take credit for the work we do—and not imply that it was done to us!
+“For some reason, scientists notoriously use the passive voice—things are added, are measured, are found, and so on. Using the active voice forces you to be specific about who added, who measured, who found—and can point to holes in your story.”
+—Cornelia Dean, Am I Making Myself Clear?: A Scientist’s Guide to Talking to the Public (2009)
+WRONG: The matter will be given careful consideration.
+RIGHT: We will give the matter careful consideration.
+PREFERRED: We will consider the matter carefully.
+The split infinitive•	
+WRONG: He was told to quickly process the data. 
+RIGHT: He was told to process the data quickly. 
+The dangling participle•	
+WRONG: Straddling the Arizona–New Mexico border, the ecologist found a series of bat-dwelling caves. (Was the ecologist straddling the border?) 
+RIGHT: The ecologist found a series of bat-dwelling caves straddling the Arizona–New Mexico border. (Better!)
+Sexist language•	
+Avoid using he and she when referring to an unspecified person. Recast the sentence in the plural, or avoid the use of pronouns altogether. If you must refer to a single person, use he or she not he/she and never s/he.
+WRONG: chairman/chairperson, businessman, mankind
+RIGHT: chair, business executive/business person, humankind
+
+• The longer of two similar words	
+    Long Word		Shorter/Better Form
+    facilitate		help
+    initialize		begin, start
+    necessitate		require
+    numerous		many
+    utilize			use
+    utility			usefulness
+ 
+ === Required Statements
+ 
+==== Copyright information
+
+// update to reflect default CC BY licence
+All printed and web-based work produced by GBIF and its staff as part of their work product is considered copyright protected. Where warranted, designation of copyright on GBIF-produced materials should read: 
+* CC BY 2019 [or applicable four-digit year] Global Biodiversity Information Facility.
+
+==== Antidiscrimination statements
+
+The following statement of GBIF’s policies on affirmative action/equal opportunity must be •	included on any formal advertisement or publication providing information or promoting opportunities, benefits, services, programs, or activities provided by the organization: 
+* GBIF does not discriminate against any individual or group of individuals on the basis of age, color, gender, national origin, race, religion, sexual orientation, physical or mental disability, pregnancy, marital status, citizenship, veteran’s status, or any other characteristic protected by state or federal law.
+
+For employment ads, include the following:	
+* GBIF is an Equal Opportunity Employer.
+
+=== Frequently Used Abbreviations 
+
+==== Months
+
+January: Jan.
+February: Feb.
+March: not abbreviated
+April: not abbreviated
+May: not abbreviated
+June: not abbreviated
+July: not abbreviated
+August: Aug.
+September: Sept.
+October: Oct.
+November: Nov.
+December: Dec.
+
+==== 'Dateline' cities
+
+No country is necessary when referring to the following international cities:
+* Amsterdam
+* Baghdad
+* Bangkok
+* Beijing
+* Beirut
+* Berlin
+* Bogotá
+* Brussels
+* Cairo
+* Copenhagen
+* Djibouti
+* Dublin
+* Geneva
+* Gibraltar
+* Guatemala City
+* Hamburg
+* Havana
+* Helsinki
+* Hong Kong
+* Islamabad
+* Istanbul
+* Jerusalem
+* Johannesburg
+* Kabul
+* Kuwait City
+* London
+* Luxembourg
+* Macau
+* Madrid
+* Mexico City
+* Milan
+* Monaco
+* Montreal
+Moscow
+Munich
+New Delhi
+Panama City
+Paris
+Prague
+Québec City
+Rio de Janeiro
+Rome
+San Marino
+Sao Paulo
+Shanghai
+Singapore
+Stockholm
+Sydney
+Tokyo
+Toronto
+Vatican City
+Vienna
+Zurich
+
+International and intergovernmental bodies and other partners/programs
+* CBD: Convention on Biological Diversity
+* CITES: Convention on International Trade in Endangered Species of Wild Fauna and Flora
+* EU BON: 
+* GEO BON:  
+* IPBES: Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services: 
+* IPCC: 
+* IUCN: International Union for the Conservation of Nature
+* UNEP: United Nations Environmental Programme
+
+=== GBIF Acronyms
+
+The following acronyms are unique within GBIF. Use them carefully in external communications.
+ALA
+BIF
+DwC
+DwC-A
+IPT
+
+=== Additional style sources
+
+* http://www.economist.com/styleguide/introduction(The Economist Style Guide)
+* http://www.theguardian.com/guardian-observer-style-guide-a(Guardian and Observer Style Guide)
+* http://handbook.reuters.com/index.php?title=A(Reuters Style Guide)
+* BBC
+
+Annex D. Revision History of the GBIF Style Guide
+
+Version 1.0, June 2014
+Original version.
+
+
