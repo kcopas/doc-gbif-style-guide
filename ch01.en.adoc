@@ -60,6 +60,7 @@ Capitalize names for phylum, class, order, and family, but do not italicize.
 * Chordata, Monocotyledoneae , Carnivora, Parulidae
 
 Do not capitalize or italicize English derivatives of scientific names.
+
 * amoeba, carnivore
 
 ==== Usage
