@@ -6,9 +6,9 @@ The guide uses UN Style as the preferred style source and Webster’s New World 
 
 GBIF’s Visual Identity Guide should be referenced for visual elements related to the organization.
 
-=== General
+=== .General
 
-==== GBIF and the Global Biodiversity Information Facility
+==== .GBIF and the Global Biodiversity Information Facility
 
 On guidelines for use of the full name, my general approach would be to ensure that any release we were using as a standalone document, e.g. emailed attachment or something to print and leave on a document table ought to have the full name at least somewhere in the text. This could just be in a standard header and/or boilerplate, but I would favour also having it in the body of the text to accommodate the many aggregators who will just lift the text direct from a wire service (e.g. Eurekalert, scidev.net) and paste it without amendment. Even if we are primarily pushing GBIF as a brand identity, I don’t think we can afford the arrogance of assuming that people will know what it stands for.
 
@@ -46,6 +46,7 @@ Do not italicize common names. In the first reference, follow the common name wi
 *RIGHT*: The golden-cheeked warbler (_Dendroica chrysoparia_) is imperiled.
 
 Do not capitalize common names of species except proper nouns and adjectives.
+
 * Queen Anne’s lace, Canada thistle, spring beauty
 
 WRONG: The Bald Eagle sometimes preys on the American Pika.
@@ -54,9 +55,11 @@ RIGHT: The bald eagle sometimes preys on the American pika.
 NOTE: The convention among ornithologists is to capitalize both words in a standardized common »»name (based on the AOU Checklist). This is unique to ornithologists, and should only be used when the audience addressed is entirely ornithologists (i.e., a mix of herpetologists and ornithologists would indicate the noncapitalized usage).
 
 Capitalize the genus in scientific names but not the species.
+
 * _Aplodontia rufa_, _Draba cusickii_ var. _pedicellata_
 
 Capitalize names for phylum, class, order, and family, but do not italicize.
+
 * Chordata, Monocotyledoneae , Carnivora, Parulidae
 
 Do not capitalize or italicize English derivatives of scientific names.
