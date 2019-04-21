@@ -216,7 +216,7 @@ Abbreviate time zones without periods.•
 * I’ll call you at 2:30 p.m. EDT.
 * Her flight is scheduled to arrive at 8:00 a.m. PST.
 
-FY	 may be used as an abbreviation for Fiscal Year. Use four-digit years in formal instances. Do not insert a space between FY and the year.
+FY may be used as an abbreviation for Fiscal Year. Use four-digit years in formal instances. Do not insert a space between FY and the year.
 
 * The FY2009 budget was approved by the Board.
 
@@ -249,15 +249,24 @@ In running text, lists, or bibliographies, abbreviate the name of the state when
 NOTE: see full list of common geographic abbreviations in <<Appendix A>>.
 
 Do not abbreviate parts of geographic names, except •	Saint in St. Louis, St. Paul, etc., unless they are used in tabular matter.
+
 Fort Wayne, not Ft. Wayne, 
 North Dakota, not N. Dakota
-4-3. Departments, agencies, and organizations
+
+==== Departments, agencies, and organizations
+
 Do not abbreviate the name of an organization the first time it is used; spell out and put the acronym in •	parentheses. If the term appears only once, do not add the acronym. Do not use the with the acronym.
+
 the U.S. Fish & Wildlife Service (FWS) in first reference, thereafter FWS.
+
 When names of government agencies or other organizations are abbreviated as acronyms (first letter •	of each word), use full caps and no periods. Refer to Appendix A for preferred forms of frequently cited agencies and other partners/programs.
+
 USDA, USGS, DoD, DOI, TNC, BCI
-Note: Avoid using internal GBIF acronyms in communications to external audiences. A list of »»commonly used GBIF acronyms is provided in Appendix B.
-Use an •	ampersand (&) in proper names of departments, offices, corporate titles, when the items are not distinctly separate, or if space demands it in abbreviations and tabular material. Otherwise, use and. 
+
+NOTE: Avoid using internal GBIF acronyms in communications to external audiences. A list of »»commonly used GBIF acronyms is provided in Appendix B.
+
+Use an ampersand (&) in proper names of departments, offices, corporate titles, when the items are not distinctly separate, or if space demands it in abbreviations and tabular material. Otherwise, use and. 
+
 the Marketing & Development Team
 Vice President and Chief Scientist
 the Association of Fish & Wildlife Agencies
@@ -315,108 +324,158 @@ Do not put spaces around slashes.
 *RIGHT*: and/or, June/July
 
 ==== Commas and periods
+
 //update —KC
 Use a comma before the words •	and and or in a series (three or more items/parts). Though the emerg.ing practice is to omit the comma in a simple series, to reduce confusion over what is a simple versus complex series, use serial commas throughout.
+
 GBIF data, tools, and expertise are commonly used across multiple federal, state, tribal, and local governments.
+
 I had orange juice, ham and eggs, and toast for breakfast.
 We must consider whether we have staff qualified to work on the project, whether they have adequate time and resources available to them, and whether the project is compatible with our mission.
+
 Commas and periods are always placed inside quotation marks. Other punctuation marks should be •	outside the ending quotation marks unless they are part of the material being quoted.
+
 He said, “GBIF is the greatest.”
 Did she really say, “I love all this snow”?
 I ask you, “Does this really matter?” (Editor’s note: the answer is, “Yes!”)
+
 If you have a phrase in parentheses at the end of a sentence, place the period after the closing parenthe.•	sis. If a complete sentence is in parentheses, the period should be inside the closing parenthesis. 
+
 Nevada’s SWAP did not address the degree of vulnerability species may face due to a warming climate (nor did many other states’ plans).
 The focus is on assessing the vulnerability of Nevada’s 263 Conservation Priority animal species. (See the case study for the results on the first 13 species reviewed.)
-When writing a date, place a comma between the day and the year as well as after the year, and •	between the day of the week and the date as well as after the date.
+
+When writing a date, place a comma between the day and the year as well as after the year, and between the day of the week and the date as well as after the date.
+
 February 10, 2010, was cold and snowy. 
 Sunday, February 7, was sunny.
 The snowfall on Saturday, February 6, 2010, set new records.
+
 Do not place a comma between the month and year when the day is not mentioned.•	
 She started working for GBIF in November 2008.
 The April 2010 board meeting convened in Austin, Texas.
+
 Place a comma after digits signifying thousands, except when reference is made to temperature or years •	as part of dates.
 1,150 species but 1100 degrees
 More than 3,200 years passed between King Tut’s death and the discovery of his tomb in 1922.
+
 Use a comma to set off nonrestrictive clauses or phrases. Use the word •	that to introduce a restrictive clause and which to introduce a nonrestrictive clause. An easy way to distinguish which word to use is whether or not the construction demands a comma to set it apart from the main clause; a comma always takes which.
+
 She was glad that she hadn’t bought the Toyota.
 I know you like this genre, which is why I invited you to join me.
+
+// NO —KC
 Transitional words such as •	to wit, namely, i.e., e.g., and viz, should be immediately preceded by a comma or semicolon and followed by a comma.
+
 The case study revealed two species that are presumed stable, namely, the Eastwood milkweed 
 (Asclepias eastwoodiana) and desert horned lizard (Phrynosoma platyrhinos).
+
 When listing names with cities or states, punctuate as follows: •	
+
 The university is entirely within the New Orleans, La., city limits. 
 Joe Turner, New Orleans, is president of the Tulane University Alumni Association. 
 Joe Turner of New Orleans is president of the Tulane University Alumni Association.
+
 Do not use a comma before or after•	 Jr. or Sr., and do not precede Roman numerals such as I, II, or III with a comma. 
+
 Please call Bruce Cameron Jr. for the funding report. 
 Contact Neil W. Ransom II for further information.
 
 ==== Colons 
+
 Use a colon to introduce long lists in running text. If the colon is followed by a list of complete sentences, •	capitalize the first word following the colon. If a single statement following the colon is a complete sen.tence itself, lowercase the first word after the colon. If it is a list or a sentence fragment, lowercase.
+
 Three things he realized: Summer is brief. Winter seems eternal. Spring arrives eventually.
 John followed the instructions: he uploaded the documents.
 Ice cream is always welcome: spring, summer, fall, and winter.
+
 Use a colon after •	as follows and the following when those words end the line/phrase immediately pre.ceding a bulleted or ordered list. Otherwise, do not use a colon preceding a bulleted or ordered list; the use of a heading/lead-in statement and graphically delineated list is sufficient.
+
 Follow a statement that introduces a direct quotation of one or more paragraphs with a colon. •	
 
 ==== Apostrophes
+
 Use only an apostrophe (not an apostrophe and an s) when making possessive a singular proper name •	ending in s. 
+
 Achilles’ heel 
 Dickens’ novels
 Copas’ pet peeves
 In making the plural of figures and multiple letters, do not use an apostrophe. •	
 The 1980s are back. 
 Two EOs
-In making the plural of single letters, use the apostrophe. •	
+
+In making the plural of single letters, use the apostrophe.
+
 Mind your p’s and q’s.
 
 ==== Hyphens
+
 Compounds formed with prefixes are normally closed (i.e., no hyphen), whether they are nouns, verbs, •	adjectives, or adverbs. A hyphen should appear, however, before a proper noun, numeral, or compound term, or to separate duplicate vowels and other combinations of letters that may cause misreading. 
+
 Do not hyphenate the words beginning with •	non, except those containing a proper noun or compound term. 
+
 non-German
 non-beer-drinking 
 nonnative species
 nonprofit organization
+
 Do not place a hyphen between the prefixes•	 pre, post, semi, anti, multi, sub, etc., and their nouns or adjectives, unless it would duplicate a vowel or consonant or the noun is a proper noun. 
+
 antidiscriminatory
 electro-optical, but preindustrial 
 pro-American
+
 Hyphenate the prefix •	co- (e.g., co-worker, co-owner, co-brand), except when combined with a verb where the letter “o” is doubled, as in cooperate and coordinate.
+
 Hyphenate compound modifiers and any modifying word combined with •	well, ill, better, best, little, or lesser when preceding a noun. Many combinations that are hyphenated before a noun are not hyphen.ated when they occur after a noun, except when they occur after a form of the verb to be. 
+
 We assist land-use planners, but planners’ decisions determine land use.
 He applied for a full-time position, but he is working full time.
 It has a well-built engine, and its engine is well-built. 
-Note: see »»Section 5-6 regarding the use of en dashes with compound modifiers.
-Do not use hyphens in compound modifiers in which the first word (typically an adverb) ends in •	-ly (except for family). Do not use a hyphen with very.
+
+NOTE: see »»Section 5-6 regarding the use of en dashes with compound modifiers.
+
+Do not use hyphens in compound modifiers in which the first word (typically an adverb) ends in	-ly (except for family). Do not use a hyphen with very.
+
 The field guides are targeted toward environmentally minded park visitors, never … toward environmen.tally-minded park visitors. 
 This is a fairly common mistake.
 He worked in the family-owned business.
 We had a very good time at the party.
-Hyphenate compounds in which one word is a cardinal number and the other is a noun or adjective.•	
+
+Hyphenate compounds in which one word is a cardinal number and the other is a noun or adjective.
+
 six-string guitar
 three-headed cow
 30-mile run 
 10-year-old child 
 12,000-square-foot building
-Do not hyphenate compound nationalities even when used as adjectives.•	
+
+Do not hyphenate compound nationalities even when used as adjectives.
+
 Three Latin American representatives attended the J3M.
 Her daughter majors in African American history.
-Hyphens are unnecessary in compounds that are composed of proper nouns or that are commonly read •	as a unit.
+
+Hyphens are unnecessary in compounds that are composed of proper nouns or that are commonly read as a unit.
+
 Sharon is a North Dakota native.
 Meet me in the airport departure lounge.
-Note: see »»Section 5-6 regarding the use of en dashes with compound modifiers.
+
+NOTE: see »»Section 5-6 regarding the use of en dashes with compound modifiers.
+
 Use a hyphen to help avoid ambiguity, and to avoid duplicated vowels or triple consonants.•	
+
 He recovered his health but he re-covered his leaky roof.
 Anti-intellectual, pre-emptive, shell-like
-Use your dictionary to determine whether to hyphenate frequently used compound words. Note that •	hyphenated words can be created for the sake of clarity. 
-Avoid the hyphenation of proper names when breaking text lines.•	
+
+Use your dictionary to determine whether to hyphenate frequently used compound words. Note that hyphenated words can be created for the sake of clarity. 
+
+Avoid the hyphenation of proper names when breaking text lines.
+
 WRONG: … He loves Mexi-
 can food. She works at Nature-
 Serve.
-RIGHT: … He loves 
-Mexican food. She works at
-GBIF.
-Avoid excessive hyphens in line breaks in paragraphs. Use a “soft return” (Shift + Enter) to push words to •	the next line within a paragraph.
+RIGHT: … He loves Mexican food. She works at GBIF.
+
+Avoid excessive hyphens in line breaks in paragraphs. Use a “soft return” (Shift + Enter) to push words to the next line within a paragraph.
 
 ==== Em dashes
 
@@ -425,53 +484,80 @@ The longer of the two types of dashes, the em dash indicates a strong break in t
 There is no space before or after the em dash.
 
 Use an em dash to denote a sudden break in thought that causes an abrupt change in sentence	structure. 
+
 * Consistency—that hobgoblin of little minds.
 * Pat left work yesterday—much later than she wanted to—to pick up her daughter.
 
 Use an em dash in defining or enumerating complementary elements.
+
 * The influence of three musicians—Mozart, Bach, and Beethoven—was of great importance in his devel.opment as a musician.
 
 Use an em dash before an author’s name at the end of a quotation or in a byline.
+
 * “When we try to pick out anything by itself, we find it hitched to everything else in the universe.”—John Muir
 
 ==== En dashes
+
 The en dash represents a range, usually of time, distance, or number. It is roughly the width of the letter ‘n’: longer than a hyphen, but shorter than an em dash. To type an en dash on a PC, the command is ALT + 0150 on the number pad; on a Mac, use the keyboard strokes option-hyphen. In Microsoft Word, an en dash can be created by typing space, two hyphens, space between two words. (Note that the Word method leaves you with unwanted spaces around the en dash.)
-There is no space before or after the en dash.•	
+
+There is no space before or after the en dash.
+
 Use an en dash to indicate continuing or inclusive numbers, dates, times, or reference numbers. In •	running text, use from and to or between and and instead of the en dash.
+
 1968–82 but from 1968 to 1982 (never from 1968–82) 
 May–June 1967 or from May through June 1967 
 10 a.m.–5 p.m. or between 10 a.m. and 5 p.m. 
 pp. 38–45 or from pages 38 to 45
-Use an en dash to join prefixes to compound terms when one or both terms is a compound. •	
+
+Use an en dash to join prefixes to compound terms when one or both terms is a compound.	
+
 New York–London flight 
 post–Civil War period 
 a New Hampshire–based organization
 Quasi–public–quasi–private judicial body
-For scores or numbers not in a sequence, use a hyphen with no spaces.•	
+
+For scores or numbers not in a sequence, use a hyphen with no spaces.
+
 The Ravens beat the Steelers 20-17 in overtime.
 
 ==== Quotation marks
+
+// de-Americanize —KC
 Except as otherwise noted, typographer’s quotes (curly or slanted quotation marks) are preferred to •	straight quotes (a.k.a. typewriter or prime quotation marks).
+
 The titles of books, radio and television programs, pamphlets, periodicals, etc., should be italicized, while •	titles of articles, book series, film series, radio and television episodes, essays, lectures, and parts of volumes (chapters, titles of papers, etc.) should be placed in quotation marks. 
+
 Use single quotation marks for quotations within other quotations. •	
+
 If several paragraphs are to be quoted, use quotation marks at the beginning of each paragraph, but at •	the end of the last paragraph only. No quotation marks are needed if the quote is set in smaller type and set off from the text by a space, or indented as a block quote.
+
 Set quotation marks after periods and commas and before colons and semicolons. Exclamation points •	and interrogation marks that are not part of the quotation should be set outside quotation marks. 
+
 Emerson replied nervously, “There is no reason to inform the president.” 
 He had not defined the term “categorical imperative.” 
 A “zinc,” or line engraving, will be made from the sketch. 
 Kego had three objections to “Filmore’s Summer”: it was contrived; the characters were flat; the dia.logue was unrealistic. 
 The man cried, “They stole my new car!”
+
 Use primes (i.e., straight quotes) to designate inches, feet, and navigational notation. •	
+
 12", 12'
 67°03'16
+
 Use editor’s brackets, not parentheses, to set off editorial remarks within direct quotations.•	
+
 “Johnson saw it [the war] as a personal test of wills.”
 
 ==== Ellipses
+// NO —KC
 In general, treat an ellipsis as a three-letter word, constructed with three periods and a regular space on either side of the ellipsis, as shown here ( ... ). 
+
 When the grammatical sense calls for a question mark, exclamation point, comma, or colon, the se.•	quence is: word, punctuation mark, regular space, ellipsis; e.g., “Will you come? ...” 
+
 When material is deleted at the end of one paragraph and at the beginning of the one that follows, place •	an ellipsis in both locations. 
-Do not use ellipses at the beginning and end of direct quotes that form complete sentences. •	
+
+Do not use ellipses at the beginning and end of direct quotes that form complete sentences.
+
 “It has become evident to me that I no longer have a strong enough political base,” Nixon said. 
 not “ … it has become evident to me that I no longer have a strong enough political base …,” Nixon said.
 but Nixon finally relented, conceding “... that I no longer have a strong enough political base.” 
@@ -488,80 +574,116 @@ Avoid mixing sentence and nonsentence items in a bulleted list.•
 
 This list is an example of a bulleted list with complete sentences. The following is an example of a list •	with nonsentence fragments:
 
-*WRONG*: GBIF’s conservation information value chain has six successive steps
-Scientific standards and methods;..
-We collect and record data. ..
-Data management and quality assurance;..
-We make information accessible and interoperable;..
-Conservation Expertise and Analysis; and..
-Decision-support...
-RIGHT: GBIF’s conservation information value chain has six successive steps
-scientific standards and methods..
-data collection and recording..
-data management and quality assurance..
-information access and interoperability..
-conservation expertise and analysis..
-decision-support..
+* *WRONG*: 
++
+GBIF’s conservation information value chain has six successive steps
+* Scientific standards and methods;..
+* We collect and record data. ..
+* Data management and quality assurance;..
+* We make information accessible and interoperable;..
+* Conservation Expertise and Analysis; and..
+* Decision-support…
++
+* *RIGHT*: 
++ 
+GBIF’s conservation information value chain has six successive steps
+* scientific standards and methods..
+* data collection and recording..
+* data management and quality assurance..
+* information access and interoperability..
+* conservation expertise and analysis..
+* decision-support…
 
 NOTE: Grammatical rules regarding punctuation are sometimes bent for the sake of visual appeal in headings, »»tables, or display type.
 
 === Numbers
 
 ==== General usage 
+
 Spell out numbers •	one through nine and general (nonspecific) numbers in text. Use numerals for numbers 10 and over, including ordinals (e.g., third, 26th).
+
 There are seven ways to do this, but only one right way.
 There are a million reasons to disagree.
 He has 12 brothers and sisters.
 Nevada’s SWAP lists 263 Conservation Priority animal species, of which 13 were assessed in the case study.
 Marta finished a dismal 15th in the rock-paper-scissors game.
+
 When two or more numbers apply to the same category in a paragraph or a series, do not use numerals •	for some and text for others; instead, use all numerals.
+
 There are 20 sections to the field guide, 13 in Part I and 7 in Part II.
 For very large numbers, use a combination of initial numeral followed by denomination.•	
 $1.8 million, 15 million people
 GBIF received a $2 million gift.
+
 Do not begin a sentence with a numeral, supply a word or spell out the number. Numbers below 100 •	should be hyphenated when they consist of two words (e.g., fifty-five).
+
 WRONG: 99 problems and a bitch ain’t 1.
 RIGHT: Ninety-nine problems and a bitch ain’t one.
+
 Do not add a numeral in parentheses after it is spelled out.•	
+
 WRONG: three (3) copies
 RIGHT: three copies
-6-2. Quantities and measurements
+
+==== Quantities and measurements
+
 References to quantities greater than a given amount should use •	more than, never over.
+
 WRONG: GBIF has classified over 600 ecological systems.
 RIGHT: GBIF has classified more than 600 ecological systems.
+
 Use numerals for degrees, ratios, and persons’ ages. •	
+
 longitude 6°7'06"W 
 The formula uses a 3:2 ratio.
 His daughter is 7 years old.
-Use numerals with units of measurement.•	
+
+Use numerals with units of measurement.
+
 John is 6-feet, 4-inches tall.
 The tree weighs 1,000 pounds.
-Express all percentages as numerals and do not use •	% except in tabular form.
-4 percent, 135 percent
-For temperatures in whole numbers, spell out •	degrees rather than using °, except when used in tables or in reference to scientific measurements. Use Fahrenheit or Celsius only when it would be confusing not to.
+
+Express all percentages as numerals and do not use % except in tabular form.
+
+4 per cent, 135 per cent
+
+For temperatures in whole numbers, spell out degrees rather than using °, except when used in tables or in reference to scientific measurements. Use Fahrenheit or Celsius only when it would be confusing not to.
+
 It is 86 degrees outside today.
 The normal boiling point of water is 99.97°C at a pressure of 1 atmosphere.
-Express all dollars as numerals, except in general/casual references. Do not use decimals for whole •	dollars.
+
+Express all dollars as numerals, except in general/casual references. Do not use decimals for whole dollars.
+
 Todd, please lend me a dollar.
 WRONG: The book cost $8.00.
 RIGHT: The book cost $8.
 RIGHT: The book cost $8.13.
 
 ==== Time
+
 Time of day is designated by using a colon and zeroes for whole hours when space allows. Shorten to just •	the whole hour where space is limited. Always use a.m. or p.m. in text; they may be dropped in tabular form in order to preserve alignment of type.
+
 Standard: 9:00 a.m., 6:00 p.m.; short: 9 a.m., 6 p.m.
+
 Always spell out •	noon and midnight, never use 12:00 a.m. and 12:00 p.m. Do not put 12 in front of noon or midnight.
+
 Use cardinal numbers for days of the month, do not use ordinals.•	
-WRONG: The meeting was held on January 19th.
+
 WRONG: The meeting was held on the 19th of January.
-RIGHT: The meeting was held on January 19.
+WRONG: The meeting was held on January 19th.
+RIGHT: The meeting was held on 19 January.
+
 Use four-digit years for decades in formal usage. In informal use, the century may be replaced by an •	apostrophe (not a left single quote). Only spell out the decade when referring to a specific age or group.
+
 Formal: 1970s, 1990s, 2000s; informal: ’70s, ’90s, ’00s
 She is in her eighties.
+
 Spell out first through tenth centuries, use ordinals after 10.•	
+
 third century, 21st century
 
 ==== Other
+
 Write phone numbers with the area code set off by a hyphen; e.g., 703-908-1800.
 
 Do not use extended ZIP codes (“ZIP plus 4”) in general references to an address, but do use them on •	actual mailings.
@@ -569,17 +691,23 @@ Do not use extended ZIP codes (“ZIP plus 4”) in general references to an add
 === Italics
 
 ==== Scientific names of plants and animals
-See•	 Section 2.
+
+See Section 2.
 
 ==== Titles
-See •	Section 3-5 and Section 5-7.
+
+See Section 3-5 and Section 5-7.
 
 ==== Emphasize words and phrases
+
 Use italics, rather than quotes or underlining, to emphasize words in text; also to highlight foreign words or phrases not yet Anglicized. 
+
 * The time to strike is now. 
 * The stranded party mixed sawdust and flour to create an ersatz bread.
 
 ==== Web and email addresses
+
+// wha…?
 Use italics, rather than underlining, to highlight URLs and email addresses in running text in printed ma.•	terials. For text conveyed electronically, create a hyperlink.
 PRINT: Visit our website, GBIF.org, or email kyle_copas@GBIF.org for more information.
 ELECTRONIC: Visit our website, GBIF.org, or email kyle_copas@GBIF.org for more information.
@@ -593,10 +721,10 @@ RIGHT: Find the latest style guide at http://native.GBIF.org.
 
 === Spelling and Usage
 
-// update, pls —KC
-For answers to other questions of style and spelling, consult The Chicago Manual of Style or Webster’s New World Dictionary. If Webster’s offers alternate spellings of a word, always check Chicago to see which is preferred.
+Primary source for GBIF is the http://www.dgacm.org/editorialmanual/ed-guidelines/style/spelling.htm(United Nations Editorial Style Guide).
 
 ==== Correct spellings of commonly misspelled words
+
 a lot•	 (no such word as alot)
 accommodate•	 (two “c’s,” two “m’s”)
 acknowledgment•	 (no “e” after the “g”)
@@ -628,7 +756,8 @@ sizable•	 (no “e”)
 toward•	 (no “s” at the end)
 under way•	 (two words in all cases)
 -wide•	, no hyphen (statewide, nationwide, worldwide—except World Wide Web)
-8-2. Common usage questions
+
+==== Common usage questions
 a•	 in front of words that sound as if they begin with a consonant, regardless of how they are spelled; an in front of words that sound as if they begin with a vowel, regardless of how they are spelled
 It is an honor to be here today. (It sounds as if honor should be spelled AHN-or.) 
 If you already know the rule, this is a useless exercise. (Hear the “y” sound in “useless”?)
@@ -660,26 +789,41 @@ principal•	: meaning primary or major, as in the title of the high-ranking sch
 were•	 is the appropriate singular verb in the subjunctive mood, used to express a wish or possible situa.tion that is currently not true. It is usually used with words like if and wish. 
 I wish I were a sea cucumber.
 I wouldn’t do that if I were you.
-8-3. Common problems to avoid
+
+
+==== Common problems to avoid
+
 Passive voice•	
+----
 “As a matter of style, passive voice is almost always inferior to active voice. With active voice, the subject acts; with passive voice, the subject is acted upon. It is important in telling our story that we take credit for the work we do—and not imply that it was done to us!
+
 “For some reason, scientists notoriously use the passive voice—things are added, are measured, are found, and so on. Using the active voice forces you to be specific about who added, who measured, who found—and can point to holes in your story.”
 —Cornelia Dean, Am I Making Myself Clear?: A Scientist’s Guide to Talking to the Public (2009)
-WRONG: The matter will be given careful consideration.
-RIGHT: We will give the matter careful consideration.
-PREFERRED: We will consider the matter carefully.
-The split infinitive•	
+----
+
+* *WRONG*: The matter will be given careful consideration.
+* *RIGHT*: We will give the matter careful consideration.
+* PREFERRED*: We will consider the matter carefully.
+
+The split infinitive
+
 WRONG: He was told to quickly process the data. 
 RIGHT: He was told to process the data quickly. 
+
 The dangling participle•	
+
 WRONG: Straddling the Arizona–New Mexico border, the ecologist found a series of bat-dwelling caves. (Was the ecologist straddling the border?) 
 RIGHT: The ecologist found a series of bat-dwelling caves straddling the Arizona–New Mexico border. (Better!)
-Sexist language•	
+
+Sexist language
+
 Avoid using he and she when referring to an unspecified person. Recast the sentence in the plural, or avoid the use of pronouns altogether. If you must refer to a single person, use he or she not he/she and never s/he.
+
 WRONG: chairman/chairperson, businessman, mankind
 RIGHT: chair, business executive/business person, humankind
 
-• The longer of two similar words	
+The longer of two similar words	
+
     Long Word		Shorter/Better Form
     facilitate		help
     initialize		begin, start
@@ -688,7 +832,7 @@ RIGHT: chair, business executive/business person, humankind
     utilize			use
     utility			usefulness
  
- === Required Statements
+=== Required Statements
  
 ==== Copyright information
 
@@ -724,6 +868,7 @@ December: Dec.
 ==== 'Dateline' cities
 
 No country is necessary when referring to the following international cities:
+
 * Amsterdam
 * Baghdad
 * Bangkok
@@ -757,28 +902,29 @@ No country is necessary when referring to the following international cities:
 * Milan
 * Monaco
 * Montreal
-Moscow
-Munich
-New Delhi
-Panama City
-Paris
-Prague
-Québec City
-Rio de Janeiro
-Rome
-San Marino
-Sao Paulo
-Shanghai
-Singapore
-Stockholm
-Sydney
-Tokyo
-Toronto
-Vatican City
-Vienna
-Zurich
+* Moscow
+* Munich
+* New Delhi
+* Panama City
+* Paris
+* Prague
+* Québec City
+* Rio de Janeiro
+* Rome
+* San Marino
+* Sao Paulo
+* Shanghai
+* Singapore
+* Stockholm
+* Sydney
+* Tokyo
+* Toronto
+* Vatican City
+* Vienna
+* Zurich
 
 International and intergovernmental bodies and other partners/programs
+
 * CBD: Convention on Biological Diversity
 * CITES: Convention on International Trade in Endangered Species of Wild Fauna and Flora
 * EU BON: 
@@ -790,12 +936,13 @@ International and intergovernmental bodies and other partners/programs
 
 === GBIF Acronyms
 
-The following acronyms are unique within GBIF. Use them carefully in external communications.
-ALA
-BIF
-DwC
-DwC-A
-IPT
+The following acronyms are unique within GBIF. In external communications, be sure to explain them, at minimum, by spelling out what they name.
+
+* ALA
+* BIF
+* DwC
+* DwC-A
+* IPT
 
 === Additional style sources
 
