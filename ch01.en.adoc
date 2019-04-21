@@ -1,23 +1,23 @@
-== Editorial Style Guide
+== Editorial style guide
 
-As a service to the GBIF community, the Marketing & Development Team has created this GBIF Editorial Style Guide, an in-house reference source that includes entries related specifically to GBIF. It gives the writers and editors of our various materials and publications answers to questions about style and usage. The guide does not attempt to address the style for other kinds of writing (scientific papers, memoran.dums, personal correspondence, etc.), though its consideration in those instances is strongly encouraged.
+This editorial style guide serves as an in-house reference that includes entries related specifically to GBIF. It gives writers and editors working on various GBIF-related materials and publications answers to questions about style and usage. The guide does not attempt to address the style for other kinds of writing (scientific papers, memoranda, personal correspondence, etc.), though its consideration in those instances is likewise encouraged.
 
 The guide uses UN Style as the preferred style source and Webster’s New World Dictionary, Third College Edition as the preferred dictionary. The Associated Press Stylebook. 
 
-GBIF’s Visual Identity Guide should be referenced for visual elements related to the organization.
+The associated visual identity guide serves as a reference for branding and visual design, including logo usage.
 
-=== .General
+=== General
 
-==== .GBIF and the Global Biodiversity Information Facility
+==== GBIF—the Global Biodiversity Information Facility
 
-On guidelines for use of the full name, my general approach would be to ensure that any release we were using as a standalone document, e.g. emailed attachment or something to print and leave on a document table ought to have the full name at least somewhere in the text. This could just be in a standard header and/or boilerplate, but I would favour also having it in the body of the text to accommodate the many aggregators who will just lift the text direct from a wire service (e.g. Eurekalert, scidev.net) and paste it without amendment. Even if we are primarily pushing GBIF as a brand identity, I don’t think we can afford the arrogance of assuming that people will know what it stands for.
+Any documentation or news item that GBIF releases as a standalone document should include the full name—the Global Biodiversity Information Facility—at least once in the text. Locations may vary—a standard header or 'boilerplate' description—but the general recommendation is to include it in the body text that others may lift directly from a source and paste it without amendment. Even as we see 'GBIF' as our primary brand identity, we do not assume that people will know what it stands for.
 
-For news items on GBIF.org itself, I see less need for this as we can assume people are reading it from the site and therefore know where they are and what GBIF is. Even then, that does not necessarily hold if for example they jump straight there from an external link or Google search - or from an RSS feed.
+For news items on GBIF.org itself, this first reference is less important, as we hope that people reading it from the site might know where they are and what GBIF is, even if it is possible that visitors have arrived at the site straight from an external link, Google search or RSS feed.
 
-* GBIF is the organization’s name in both formal and informal usage.
-* GBIF is  
+* GBIF ("Gee Biff") is the facility’s name in both formal and informal usage.  
 
-Do not use environmental to describe GBIF, as that connotes a degree of advocacy beyond our mission.
+* *WRONG*: 'the GBIF', 'Global Biodiversity Information Facility (GBIF)'
+* *RIGHT*: GBIF, the Global Biodiversity Information Facility
 
 ==== GBIF Secretariat
 
@@ -27,14 +27,19 @@ informal usage of GBIFS is not for external use
 
 Participants, members, member states
 
-==== GBIF network
+* Voting
+* Associate
+* Other Associate
 
-When delineating the member programs, do not use language that implies that the network is somehow a separate entity from GBIF.
+==== GBIF nodes
 
-*WRONG*: Natural Heritage Network, natural heritage network, Heritage Network
-*RIGHT*: the GBIF network, the network of member programs, the network, our network, our network of member programs
 
-NOTE: 'network' is never capitalized.
+
+==== The GBIF network
+
+When describing Participants, use inclusive language, not language that suggests or emphasizes that they are separate from or operate at a distance from GBIF. National Participants are their governments' duly appointed representatives in this global network.
+
+NOTE: The 'network' in 'the GBIF network' is never capitalized.
 
 === Species names 
 
@@ -42,17 +47,16 @@ NOTE: 'network' is never capitalized.
 
 Do not italicize common names. In the first reference, follow the common name with the scientific name italicized and in parentheses. 
 
-*WRONG*: The Golden-cheeked Warbler, _Dendroica chrysoparia_, is imperiled.
-*RIGHT*: The golden-cheeked warbler (_Dendroica chrysoparia_) is imperiled.
+* *WRONG*: The Golden-cheeked Warbler, _Dendroica chrysoparia_, is imperiled.
+* *RIGHT*: The golden-cheeked warbler (_Dendroica chrysoparia_) is imperiled.
 
 Do not capitalize common names of species except proper nouns and adjectives.
 
 * Queen Anne’s lace, Canada thistle, spring beauty
+* *WRONG*: The Bald Eagle sometimes preys on the American Pika.
+* *RIGHT*: The bald eagle sometimes preys on the American pika.
 
-WRONG: The Bald Eagle sometimes preys on the American Pika.
-RIGHT: The bald eagle sometimes preys on the American pika.
-
-NOTE: The convention among ornithologists is to capitalize both words in a standardized common »»name (based on the AOU Checklist). This is unique to ornithologists, and should only be used when the audience addressed is entirely ornithologists (i.e., a mix of herpetologists and ornithologists would indicate the noncapitalized usage).
+NOTE: The convention among ornithologists is to capitalize both words in a standardized common name (based on the AOU Checklist). This practice is unique to ornithologists and should only be used when the audience addressed is entirely ornithologists (i.e., a mix of herpetologists and ornithologists would indicate the noncapitalized usage).
 
 Capitalize the genus in scientific names but not the species.
 
@@ -68,11 +72,14 @@ Do not capitalize or italicize English derivatives of scientific names.
 
 ==== Usage
 
-As a scientific organization, it is appropriate for GBIF to include the scientific names of species referred to in our communications. This also enhances clarity, as common names often vary by region.
+As a resource that serves scientific research and policy, it is appropriate for GBIF to use the scientific names of species referred to in our communications. Such usage also enhances clarity, as common names can vary widely around the world.
 
 The scientific name of a species should immediately follow the first reference to the common name. Thereafter, only the common name, or a shorter reference thereto, should be used.
 
+----
 The pallid bat (_Antrozous pallidus_) is found throughout most of the western United States, though the bat’s status tends to be less secure in the more northern and western parts of its range. The pallid bat has large ears, large eyes, a simple muzzle, and yellowish drab dorsal pelage.
+
+----
 
 === Capitalization	
 When in doubt, do not capitalize.
@@ -80,34 +87,39 @@ When in doubt, do not capitalize.
 ==== Time and date
 Capitalize months and days of the week, but not the seasons.
 
-*RIGHT*: Last spring, Julie rode her bike to work every Tuesday and Thursday.
-*RIGHT*: The summer field season begins in mid-May.
-*WRONG*: Their research concluded in the Fall of 2009.
+* *RIGHT*: Last spring, Julie rode her bike to work every Tuesday and Thursday.
+* *RIGHT*: The summer field season begins in mid-May.
+* *WRONG*: Their research concluded in the Fall of 2009.
 
 Do not capitalize the abbreviations	a.m. or p.m. 
 
 ==== Geography
 
 Capitalize entire geographic names, but not general references.
+
 * Kent County, but Kent and Ottawa counties
 * the Potomac River, but the Potomac and Rappahannock rivers
 * Yosemite Valley, but the Blackfoot River valley
 
 Capitalize geographical regions, but not points of the compass (direction or locality).
+
 * A storm system that developed in the Midwest is moving east.
 * The golden-cheeked warbler is facing habitat loss in the northern ends of its range.
 * The farther south one travels in Virginia, the more one notices a Southern accent.
 * The GBIF network extends throughout the Western Hemisphere.
 
 ==== Departments, agencies, and organizations
-Capitalize the formal names of agencies and departments, offices, programs, and institutions when used •	in text; do not capitalize informal or incomplete names. Do not capitalize the in the name, unless it is part of the formal name. Refer to Appendix A for preferred forms of frequently cited agencies.
-the Department of the Interior, but the department
-Texas Parks and Wildlife Department, but the parks and wildlife department
-Duke University, but the university
-GBIF formed a partnership with the Land Trust Alliance and The Nature Conservancy.
-Do not capitalize the words •	federal, state, or government when not part of a full proper name.
-Many natural heritage programs are housed in state agencies.
-GBIF receives federal government funding in support of our projects and programs.
+
+Capitalize the formal names of agencies and departments, offices, programs, and institutions when used	in text; do not capitalize informal or incomplete names. Do not capitalize the in the name, unless it is part of the formal name. Refer to <<Appendix A>> for preferred forms of frequently cited agencies.
+
+* Ministry of the Environment of the Government of Japan, but the ministry or government ministry
+* Texas Parks and Wildlife Department, but the parks and wildlife department
+* the University of Copenhagen, but the university
+
+Do not capitalize the words	federal, state, or government when not part of a full proper name.
+
+* Many nodes are housed in government agencies and ministries.
+* GBIF receives federal government funding in support of our projects and programs.
 
 ==== People
 
@@ -115,9 +127,9 @@ Generally, capitalize formal titles when they appear before a person’s name, b
 
 Capitalize all conferred and traditional, educational, occupational, and business titles when used specifically in front of the name; do not capitalize these titles when they follow the name or stand alone. 
 
-* GBIF welcomed Vice President and Chief Scientist Tom Brooks on March 1.
-* Bruce Young, director of species science, will speak at the symposium.
-* Director Tom Smith is from the Virginia Natural Heritage Program.
+* GBIF welcomed Executive Secretary Joe Miller on March 15.
+* Tim Hirsch, deptuy director and head of participation and engagement, will speak at the symposium.
+* Head of delegation Tom Smith is from the Virginia Natural Heritage Program.
 * Andy Kaiser, a GBIF director, is a partner with Goldman Sachs.
 * The chair of the Appropriations Committee emailed her today.
 * Contact the project manager for further information.
@@ -127,22 +139,24 @@ NOTE: in tabular matter and addresses, these titles may be capitalized regardles
 Do not use courtesy titles such as Mr., Ms., or Dr. when referring to people; use instead the full name on first reference and last name on subsequent references. Exceptions may be made upon specific request from the parties.
 
 Maintain parallel structure when using professional titles.
-*WRONG*: President Mary Klein, Tom Smith, director, Lori Scott, Kathy Goodin, Ph.D.
-*RIGHT*: Mary Klein, president, Tom Smith, director, Lori Scott, acting chief information officer, Kathy Goodin, deputy director for science
 
-• Capitalize references to GBIF’s Board of Directors.
-Board of Directors in first reference, thereafter the Board
+* *WRONG*: Head of administration Anne Mette Nielsen, Susanne Sheldon, HR director, Marlene Dalsgaard Nielsen, Annie Elkjær Ørum-Kristensen, MA.
+* *RIGHT*: Anne Mette Nielsen, head of administration; Susanne Sheldon, HR director; Marlene Dalsgaard Nielsen and Annie Elkjær Ørum-Kristensen, administrative assistants
 
-• Capitalize the names of all races and nationalities that contain a geographic term. Do not hyphenate,	either in noun or adjective form. Do not capitalize the race terms black and white.
-African American, Caucasian, Canadian, Puerto Rican, Hispanic*, Chinese
-* Whenever possible, use a specific designation term such as Mexican or Central American rather than the more generic Hispanic or Latino.
+Capitalize references to GBIF’s Governing Board.
 
-• Do not capitalize unofficial titles preceding a name.
-linguist Erin Jones 
-When spelled out, academic degrees are not capitalized unless describing a specific degree.•	
-bachelor’s degree, master’s degree, doctoral degree, doctorate
-Marta earned her Master of Professional Communication degree at Clemson.
-Pete is studying toward a master’s degree, in addition to working full time.
+* Governing Board in first reference, thereafter the Board
+
+Do not capitalize unofficial titles preceding a name.
+
+* mycologist Dmitry Schigel 
+
+//check this out—
+When spelled out, academic degrees are not capitalized unless describing a specific degree.
+
+* bachelor’s degree, master’s degree, doctoral degree, doctorate
+* John earned his Master of Professional Communication degree at Clemson.
+* Pete is studying toward a master’s degree, in addition to working full time.
 
 ==== Publications
 // all up for revision —KC
@@ -154,6 +168,7 @@ Capitalize all words, except articles (•	the, a, an), conjunctions (and, or, f
 * For Whom the Bell Tolls
 
 Titles of all major works, including published books, periodicals, and newspapers are capitalized and set •	in italics. Do not capitalize the in the title, unless it is part of the formal name.
+
 * The New York Times is sold at most CVS stores, but copies of the Boston Globe are harder to come by.
 
 Capitalize	Figure or Table, and their abbreviations, when used in text to designate a specific insert.
@@ -180,38 +195,59 @@ NOTE: grammatical rules regarding capitalization are sometimes bent for the sake
 
 When in doubt, spell the word out.
 
-4-1. Time and date
+==== Time and date
+
 Use •	a.m. and p.m. with periods and lowercase letters. In tabular matter, the periods may be omitted to save space. 
+
 Do not abbreviate days of the week except in tabular form; if abbreviated, the preferred form is •	Mon., Tue., Wed., Thu., Fri., Sat., and Sun.
-Spell out the month when used alone or with a year alone.•	
-In January, they reorganized the department.
-GBIF Vista 2.5 was released in November 2009.
+
+Spell out the month when used alone or with a year alone.
+
+* In January, they reorganized the department.
+* The new GBIF.org was released in July 2017.
+
 These months may be (but need not be) abbreviated when (and only when) they are used with a specific •	date: Jan., Feb., Aug., Sept., Oct., Nov., Dec.; spell out March, April, May, June, and July in all references.
-J3M is scheduled for Jan. 28–29, or J3M is scheduled for January 28–29.
-Training will be held March 2–6, but never Training will be held Mar. 2–6.
+
+* Global nodes training is scheduled for .
+* Training will be held March 2–6, but never Training will be held Mar. 2–6.
+
 Abbreviate time zones without periods.•	
-I’ll call you at 2:30 p.m. EDT.
-Her flight is scheduled to arrive at 8:00 a.m. PST.
-FY•	 may be used as an abbreviation for Fiscal Year. Use four-digit years in formal instances. Do not insert a space between FY and the year.
-The FY2009 budget was approved by the Board.
-Never abbreviate •	Christmas in the form of Xmas.
-4-2. Geography
-Use •	U.S. in text only as an adjective. Spell out United States as a noun.
-the U.S. Senate, but a resident of the United States
+
+* I’ll call you at 2:30 p.m. EDT.
+* Her flight is scheduled to arrive at 8:00 a.m. PST.
+
+FY	 may be used as an abbreviation for Fiscal Year. Use four-digit years in formal instances. Do not insert a space between FY and the year.
+
+* The FY2009 budget was approved by the Board.
+
+Never abbreviate	Christmas in the form of Xmas.
+
+==== Geography
+
+Use U.S. in text only as an adjective. Spell out United States as a noun.
+
+* the U.S. Senate, but a resident of the United States
+
 Use the abbreviations •	Ave., Blvd., and St. only with a numbered address.
-GBIF offices are located at 1101 Wilson Blvd.
-The subway station is just one block up Wilson Boulevard.
-Do not abbreviate names of countries other than •	U.S.
+
+* GBIF offices are located at 1101 Wilson Blvd.
+* The subway station is just one block up Wilson Boulevard.
+
+Do not abbreviate names of countries other than U.S.
+
 In running text, lists, or bibliographies, abbreviate the name of the state when it is used with a city, •	except Alaska, Hawaii, Idaho, Iowa, Maine, Ohio, Texas, and Utah; in such instances, use traditional state abbreviations, not postal abbreviations. Always spell out the state’s name when it is used alone. Use the two-letter postal abbreviation only in full addresses and with a ZIP code. 
-WRONG: The training will be held simultaneously in Westborough, MA, and Fort Collins, CO.
-RIGHT: The training will be held simultaneously in Westborough, Mass., and Fort Collins, Colo.
-ALSO ACCEPTABLE: The training will be held simultaneously in Westborough, Massachusetts, and Fort Collins, Colorado.
-WRONG: He grew up in Portland, ME, and then moved to Fresno, Cal.
-RIGHT: He grew up in Portland, Maine, and then moved to Fresno, Calif.
-WRONG: She began working with the network in MI in 1992.
-WRONG: She began working with the network in Mich. in 1992.
-RIGHT: She began working with the network in Michigan in 1992.
-Note: see full list of common geographic abbreviations in »»Appendix A.
+
+* WRONG: The training will be held simultaneously in Westborough, MA, and Fort Collins, CO.
+* RIGHT: The training will be held simultaneously in Westborough, Mass., and Fort Collins, Colo.
+* ALSO ACCEPTABLE: The training will be held simultaneously in Westborough, Massachusetts, and Fort Collins, Colorado.
+* WRONG: He grew up in Portland, ME, and then moved to Fresno, Cal.
+* RIGHT: He grew up in Portland, Maine, and then moved to Fresno, Calif.
+* WRONG: She began working with the network in MI in 1992.
+* WRONG: She began working with the network in Mich. in 1992.
+* RIGHT: She began working with the network in Michigan in 1992.
+
+NOTE: see full list of common geographic abbreviations in <<Appendix A>>.
+
 Do not abbreviate parts of geographic names, except •	Saint in St. Louis, St. Paul, etc., unless they are used in tabular matter.
 Fort Wayne, not Ft. Wayne, 
 North Dakota, not N. Dakota
@@ -225,31 +261,42 @@ Use an •	ampersand (&) in proper names of departments, offices, corporate titl
 the Marketing & Development Team
 Vice President and Chief Scientist
 the Association of Fish & Wildlife Agencies
-4-4. People
-Never abbreviate given names, such as •	George, William, and Charles. 
-Although •	Chicago no longer uses periods in abbreviations of academic degrees, we recommend the tra.ditional: B.A., M.S., Ph.D., M.S.s, Ph.D.s. Set off with commas in running text.
- Judy Soule, Ph.D., is director of member relations.
-Only use the title •	Dr. when referring to a medical doctor.
-Bruce Young, Ph.D., not Dr. Bruce Young
-Always abbreviate courtesy titles, such as •	Mr., Mrs., and Dr.; do not use them in combination with any other title or with abbreviations indicating academic degrees. (But remember: we don’t typically use courtesy titles anyhow! See Section 3-4.)
-Kathleen Goodin, Ph.D., not Ms. Kathleen Goodin, Ph.D. 
 
-4-5. Other
-No space should be used between the initials of an abbreviation.•	
-U.S., J.D. Salinger, 8:15 a.m.
+==== People
+Never abbreviate given names, such as •	George, William, and Charles. 
+
+//fix —KC
+Although Chicago no longer uses periods in abbreviations of academic degrees, we recommend the tra.ditional: B.A., M.S., Ph.D., M.S.s, Ph.D.s. Set off with commas in running text.
+
+* Judy Soule, Ph.D., is director of member relations.
+
+Only use the title •	Dr. when referring to a medical doctor.
+
+* Bruce Young, Ph.D., not Dr. Bruce Young
+
+Always abbreviate courtesy titles, such as Mr., Mrs., and Dr.; do not use them in combination with any other title or with abbreviations indicating academic degrees. (But remember: we don’t typically use courtesy titles anyhow! See <<Section 3-4>>.)
+
+* Kathleen Goodin, Ph.D., not Ms. Kathleen Goodin, Ph.D. 
+
+==== Other
+
+No space should be used between the initials of an abbreviation.	
+
+* U.S., J.D. Salinger, 8:15 a.m.
 
 Do not abbreviate the words •	association, department, institute, etc., in running text.
 
 Do not abbreviate the word •	percent. Spell it out as percent (one word) and use figures. 
 Of this year’s student enrollment, 52 percent are men and 48 percent are women.
 
-Abbreviate 
-•	page to p. and pages to pp. in footnotes or bibliographical material; spell out when used in text material (page, not Page). 
+Abbreviate	page to p. and pages to pp. in footnotes or bibliographical material; spell out when used in text material (page, not Page).
+
 Do not begin a sentence with an abbreviation. Spell the word(s) out.  
-•	
-WRONG: E.g., one should never begin a sentence this way.
-RIGHT: For example, the words should be spelled out.
-Note: abbreviations may be used more freely in tabular matter.»»
+
+* WRONG: E.g., one should never begin a sentence this way.
+* RIGHT: For example, the words should be spelled out.
+
+NOTE: abbreviations may be used more freely in tabular matter.
 
 === Punctuation
 
